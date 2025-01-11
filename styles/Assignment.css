@@ -1,0 +1,253 @@
+
+
+*{
+    margin: 30px 50px 0px 50px;
+}
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+/* Nav bar */
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    
+}
+.btn-1{
+    color:#006A50 ;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius:8px ;
+    padding: 30px;
+}
+/* banner styles */
+.banner{
+  display: flex;
+    background-color:#C6E4D6 ;
+    justify-content: space-between;
+    padding: 20px;
+    padding: 100px 80px;
+    width: 1280px;
+    height: 560px;
+    border:100px 100px 100px 100px;
+    margin: 160px 160px;
+    border-radius:24px ;
+
+    
+}
+h5{
+    color: #0E0E0E;
+   font-size: 24;
+ font-weight: 500;
+ gap: 64;
+ padding: 20px;
+}
+.banner-description{
+    font-weight: bold;
+    font-size: 56px;
+}
+
+.btn-2{
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: 600px;
+    color: white;
+    padding: 17px 34px;
+    border-radius: 8px;
+  
+}
+.banner-pic{
+    width: 329.8px;
+    height: 313.87px;
+}
+.vision{
+    font-size: 24px;
+    font-weight: lighter;
+}
+h2{
+    font-weight: bold;
+    font-size: 40px;
+}
+/*  */
+.digit-img{
+    width: 64px;
+    height: 64px;
+}
+.digital{
+    font-weight: bold;
+    font-size: 20px;
+}
+.digital-content{
+    font-size: 16px;
+   font-weight: normal;
+}
+.digit{
+    background-color: #81B4FC;
+    width: 410px;
+    height: 325px;
+    border-radius: 16px;
+
+}
+.btn-3{
+    font-size: 16px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    background-color: #5490F5;
+    padding: 10px;
+    border-radius: 8px;
+    font: bold;
+    border: none;
+
+}
+.btn-4{
+    font-size: 16px;
+    font-weight:600px ;
+    background-color: #09A15C;
+    padding: 10px;
+    border-radius:8px ;
+    border: none;
+    font: bold;
+    color: #FFFFFF;
+}
+.btn-5 {
+    font-size: 16px;
+    font-weight: 600px;
+    background-color: #FFC239;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    font: bold;
+    color: #FFFFFF;
+}
+.btn-6{
+    background-color: #006A50;
+    padding: 26px;
+    font-size: 18px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+
+}
+.btn-7{
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 600px;
+    padding: 34px 17px;
+    border-radius: 8px;
+}
+.gree{
+    background-color: #C6E4D6;
+    width: 410px;
+    height: 325px;
+    border-radius: 16px;
+}
+.mod{
+    background-color: #F7EBCF;
+    width:410px ;
+    height:325px ;
+    border-radius: 16px;
+}
+.main-topic{
+    display: flex;
+}
+h3{
+  font-size: 40px;
+  font-weight: bold;  
+  color: #0E0E0E;
+}
+.Recent{
+    font-size: 16px;
+    font-weight: 400px;
+}
+.recent-1{
+    display: flex;
+    background-color: #F1F1F3;
+    border-radius: 24px;
+    padding: 48px 48px;
+    gap: 32px;
+    margin-left: 50px;
+   
+    
+}
+.rec-pic{
+    height: 306px;
+    width: 408px;
+    border-radius: 24px;
+    gap:10px;
+    margin: 50px 100px;
+    align-items: center;
+}
+.recent-2{
+    display: flex;
+    background-color: #F1F1F3;
+    border-radius: 24px;
+    padding: 48px 48px;
+    gap: 32px;
+    margin-left: 50px;
+   
+}
+.recent-3{
+    display: flex;
+    background-color: #F1F1F3;
+    border-radius: 24px;
+    padding: 48px 48px;
+    gap: 32px;
+    margin-left: 50px;
+   
+}
+.today{
+    font-size: 40px;
+    font-weight: bold;
+    color:#0E0E0E ;
+}
+.donate{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400px;
+    color: #0E0E0E;
+}
+.donation{
+    display: flex;
+    text-align: center;
+}
+.don-1{
+    padding: 40px 40px;
+    border-radius: 16px;
+    background-color:#FFFFFF ;
+    color: #0E0E0E;
+    box-shadow: 10px;
+}
+.input{padding: 40px 400px;
+    background-color: #FFFFFF;
+    color:#0E0E0E ;
+
+}
+.don-2{
+    padding: 40px 40px;
+    border-radius: 16px;
+    background-color:#FFFFFF ;
+    color: #0E0E0E;
+    box-shadow: 10px;
+}
+.don-3{
+    padding: 40px 40px;
+    border-radius: 16px;
+    background-color:#FFFFFF ;
+    color: #0E0E0E;
+    box-shadow: 10px;
+}
+.don-4{
+    padding: 40px 40px;
+    border-radius: 16px;
+    background-color:#FFFFFF ;
+    color: #0E0E0E;
+    box-shadow: 10px;
+}
